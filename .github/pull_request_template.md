@@ -6,7 +6,7 @@
 
 ### Виконані вправи
 
-- [ ] `group_by/enrolment_stats.sql`
+- [+] `group_by/enrolment_stats.sql`
 - [ ] `group_by/popular_courses.sql`
 - [ ] `group_by/student_average_grade.sql`
 - [ ] `group_by/student_success_rate.sql`
